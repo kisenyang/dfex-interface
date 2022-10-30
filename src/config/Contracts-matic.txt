@@ -1,0 +1,80 @@
+  *Polygon*
+
+    *Token contracts:*
+ MVX 0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7 <https://polygonscan.com/address/0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7>​
+​
+ esMVX 0xd1b2f8dff8437be57430ee98767d512f252ead61 <https://polygonscan.com/address/0xd1b2f8dff8437be57430ee98767d512f252ead61>​
+​
+ USDM 0x533403a3346ca31d67c380917ffaf185c24e7333 <https://polygonscan.com/address/0x533403a3346ca31d67c380917ffaf185c24e7333> 
+​
+ MVLP 0x9f4f8bc00f48663b7c204c96b932c29ccc43a2e8 <https://polygonscan.com/address/0x9f4f8bc00f48663b7c204c96b932c29ccc43a2e8>​
+
+
+    Trading pairs
+MVX-USDC Uniswap Pool: 0x30f5c777ab316e6878D2b71a32274e4C2842327A <https://polygonscan.com/address/0x30f5c777ab316e6878D2b71a32274e4C2842327A>​
+
+    Core contracts:
+
+MVLPManager 0x13e733ddd6725a8133bec31b2fc5994fa5c26ea9 <https://polygonscan.com/address/0x13e733ddd6725a8133bec31b2fc5994fa5c26ea9>​
+OrderBook 0x03Cd7506dd538BFd4D6c37Ebcd090b65AeD6B00C <https://polygonscan.com/address/0x03Cd7506dd538BFd4D6c37Ebcd090b65AeD6B00C>​
+PositionManager 0x87a3918a6A0557a48ed9c8f0cfc18Bc89a256b50 <https://polygonscan.com/address/0x87a3918a6a0557a48ed9c8f0cfc18bc89a256b50>​
+PositionRouter 0x5e51629adcded51a8b51133d4b46d10ec5eb5361 <https://polygonscan.com/address/0x5e51629adcded51a8b51133d4b46d10ec5eb5361>​
+Router* *0xca9c89410025f2bc3befb07ce57529f26ad69093 <https://polygonscan.com/address/0xca9c89410025f2bc3befb07ce57529f26ad69093>​
+Vault 0x32848e2d3aecfa7364595609fb050a301050a6b4 <https://polygonscan.com/address/0x32848e2d3aecfa7364595609fb050a301050a6b4>​
+VaultErrorController 0xe25fa5ffd1f3302b49117ba2f60a475c9a932fdc <https://polygonscan.com/address/0xe25fa5ffd1f3302b49117ba2f60a475c9a932fdc>​
+VaultUtils 0x2de28b22898c75e3dc96f3e7abf5634da33d5179 <https://polygonscan.com/address/0x2de28b22898c75e3dc96f3e7abf5634da33d5179>​
+​FastPriceEvents 0xac68262df02052f7a22a4251f13447c5e2f35db6 <https://polygonscan.com/address/0xac68262df02052f7a22a4251f13447c5e2f35db6>​
+FastPriceFeed 0x44ea6da1cd01899b0f4f17a09cd89eda49eb2b0a <https://polygonscan.com/address/0x44ea6da1cd01899b0f4f17a09cd89eda49eb2b0a>​
+​
+    Peripheral contracts:
+BatchSender 0x0f79273299bc3c31cc439151907626e567351ca6 <https://polygonscan.com/address/0x0f79273299bc3c31cc439151907626e567351ca6>​
+EsMVXBatchSender 0x01eAaeE31ca1a1cc1aEC77fdC59277619aE10b88 <https://polygonscan.com/address/0x01eAaeE31ca1a1cc1aEC77fdC59277619aE10b88>​
+Timelock 0x25f3434ce5873d169f3E73Ffc422C200dE22Be09 <https://polygonscan.com/address/0x25f3434ce5873d169f3E73Ffc422C200dE22Be09>​
+TokenManager 0x93415c0b0f59ff7c8f5b763ed1fcc617d1418df9 <https://polygonscan.com/address/0x93415c0b0f59ff7c8f5b763ed1fcc617d1418df9>​
+MVX-Timelock 0x39bdDc22D9B75727244CcC8F39b67d5A546937eC <https://polygonscan.com/address/0x39bdDc22D9B75727244CcC8F39b67d5A546937eC>​
+OrderBookReader 0x6FeeB0013ed6a3299b4e7696Dd312919c1a20F29 <https://polygonscan.com/address/0x6FeeB0013ed6a3299b4e7696Dd312919c1a20F29>​
+Reader 0x01dd8b434a83cbddfa24f2ef1fe2d6920ca03734 <https://polygonscan.com/address/0x01dd8b434a83cbddfa24f2ef1fe2d6920ca03734>​
+RewardReader 0x398cab94dea3b44861e7ad7efcd23a6a35d57c3a <https://polygonscan.com/address/0x398cab94dea3b44861e7ad7efcd23a6a35d57c3a>​
+VaultReader 0xa1cc67170df03aabd5e39406e390ef5aa2137bbb <https://polygonscan.com/address/0xa1cc67170df03aabd5e39406e390ef5aa2137bbb>​
+OrderbookUpkeep 0x09334f54521faC620e0C1076a569FD2b6Ef355A5 <https://polygonscan.com/address/0x09334f54521faC620e0C1076a569FD2b6Ef355A5>​
+​
+    Referral contracts:
+ReferralReader 0x3444df08aa9eba2b49c7106c57aee3cb13c578fc <https://polygonscan.com/address/0x3444df08aa9eba2b49c7106c57aee3cb13c578fc>​
+ReferralStorage 0x2b27d228d1e6db9b0a4de299a0c749ca11e7f8ac <https://polygonscan.com/address/0x2b27d228d1e6db9b0a4de299a0c749ca11e7f8ac>​
+​    Reward contracts:
+RewardManager 0x37a259cf77ff5f9ab61c4e8e83490f371b34a1ea <https://polygonscan.com/address/0x37a259cf77ff5f9ab61c4e8e83490f371b34a1ea>​
+RewardRouter 0xD82Beaf2B820fD7CDA5D4F2E376307db4Ac1E2CB <https://polygonscan.com/address/0xD82Beaf2B820fD7CDA5D4F2E376307db4Ac1E2CB>​
+Staked MVX (sMVX): 0xE8e2E78D8cA52f238CAf69f020fA961f8A7632e9 <https://polygonscan.com/address/0xE8e2E78D8cA52f238CAf69f020fA961f8A7632e9> 
+Staked + Bonus MVX (sbMVX): 0x295818E13208d81c40E884Cc52720c45155Fdd93 <https://polygonscan.com/address/0x295818E13208d81c40E884Cc52720c45155Fdd93> 
+Staked + Bonus + Fee MVX (sbfMVX): 0xaCEC858f6397Dd227dD4ed5bE91A5BB180b8c430 <https://polygonscan.com/address/0xaCEC858f6397Dd227dD4ed5bE91A5BB180b8c430#readContract>​
+Fee MVLP (fMVLP): 0xaBD6c70C41FdF9261dfF15F4eB589b44a37072eB <https://polygonscan.com/address/0xaBD6c70C41FdF9261dfF15F4eB589b44a37072eB> 
+Fee + Staked MVLP (fsMVLP): 0xA6ca41Bbf555074ed4d041c1F4551eF48116D59A <https://polygonscan.com/address/0xA6ca41Bbf555074ed4d041c1F4551eF48116D59A>​
+      Distributors:
+Staked MVX Distributor: 0xAeFE07f369FA46026CB27fB9d09eF59E913d6119  <https://polygonscan.com/address/0xAeFE07f369FA46026CB27fB9d09eF59E913d6119>​
+Bonus MVX Distributor: 0x35DbDf32C4ce2e4069cEAB11aa46125c97C23E45 <https://polygonscan.com/address/0x35DbDf32C4ce2e4069cEAB11aa46125c97C23E45> 
+Fee MVX Distributor: 0xfb662d23407Ad2482B65864647875E1614d05Aa8 <https://polygonscan.com/address/0xfb662d23407Ad2482B65864647875E1614d05Aa8>​
+Fee MVLP Distributor: 0xcA05c0f5626e5dAe51B211783b0cCAB1d041A3FA <https://polygonscan.com/address/0xcA05c0f5626e5dAe51B211783b0cCAB1d041A3FA> 
+Staked MVLP Distributor: 0xaf26dBF99bA3bBD758002a4BfB53762eaf1bd7F2 <https://polygonscan.com/address/0xaf26dBF99bA3bBD758002a4BfB53762eaf1bd7F2>​
+​    Staking contracts:
+MVLPBalance 0xf4dc1272a1fc4ca8a4beb546ba35ec3ac42f4a79 <https://polygonscan.com/address/0xf4dc1272a1fc4ca8a4beb546ba35ec3ac42f4a79>​
+MVXVester 0x505b0ecac7a2709c59df1f7e7b21dbc7fb5f7dc6 <https://polygonscan.com/address/0x505b0ecac7a2709c59df1f7e7b21dbc7fb5f7dc6>​
+MVLPVester 0x041D005Ef436c41383AD9A36BC86Aee6cc526D07 <https://polygonscan.com/address/0x041D005Ef436c41383AD9A36BC86Aee6cc526D07>​
+StakeManager 0x1b9aaa26f3aa63dafc46364140d22739cae5e21c <https://polygonscan.com/address/0x1b9aaa26f3aa63dafc46364140d22739cae5e21c>​
+​
+
+
+
+
+MVX Fastpricefeed Updater 1 0xd494Ca46f70C1bFdd6b67E8a9691b0cfa1Ec850f <https://polygonscan.com/address/0xd494Ca46f70C1bFdd6b67E8a9691b0cfa1Ec850f>​
+MVX Fastpricefeed Updater 2 0x90fbC4e2542DEdcaE4C1D5cE7baCC192429140C5 <https://polygonscan.com/address/0x90fbC4e2542DEdcaE4C1D5cE7baCC192429140C5>​
+​
+MVX Position Keeper 1 0x3DEC0476E2ba5c0bF5544c2a49FE635c0850b0fc <https://polygonscan.com/address/0x3DEC0476E2ba5c0bF5544c2a49FE635c0850b0fc>​
+MVX Position Keeper 2 0x359A473f73fF13cd651B92a877ec0dcfdE1A6cF7 <https://polygonscan.com/address/0x359A473f73fF13cd651B92a877ec0dcfdE1A6cF7>​
+MVX Position Keeper 3 0xeede8B3661679aF0096a17B1Fd1DAC54589F5F6B <https://polygonscan.com/address/0xeede8B3661679aF0096a17B1Fd1DAC54589F5F6B>​
+​
+Chainlink Limitorder Keeper https://keepers.chain.link/polygon/246 <https://keepers.chain.link/polygon/246>​
+Back-up Limitorder Executor 0x81359c7c5B3B79f947466603d3b2FccE13f98Ba2 <https://polygonscan.com/address/0x81359c7c5B3B79f947466603d3b2FccE13f98Ba2>​
+​
+MVX Liquidator 1 0xa50745A6dbd2A049D0029Bf8e4d28C29131674De <https://polygonscan.com/address/0xa50745A6dbd2A049D0029Bf8e4d28C29131674De>​
+MVX Liquidator 2 0xE86D22Dd2a0Bfa71E1F1dC25A2BE48D29a37120F <https://polygonscan.com/address/0xE86D22Dd2a0Bfa71E1F1dC25A2BE48D29a37120F>​
+​
